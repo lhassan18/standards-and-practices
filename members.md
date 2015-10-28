@@ -178,6 +178,7 @@ Format:
 | Kyle Stratis| [achileas](https://github.com/achileas) | Self-taught looking to build skills in all languages. Currently learning Java, Ruby, Python, Javascript. Eventually want to expand into the C family and assembly. I'm a glutton for punishment. |
 | Lavin Sharma| [fritzrage](https://github.com/fritzrage)|Student|
 | Leon Cheung | [fsxfreak](https://github.com/fsxfreak) ||
+| Louai Hassan | (lhassan18) (https://github.com/lhassan18 || Sophomore in college trying to learn the basics of Java and familiarize myself with Github. 
 | Luke Cullina | [lcullina](https://github.com/lcullina) ||
 | Luke Herron | [dafe](https://github.com/dafe) ||
 | Luke Stoss | [Stosswalkinator](https://github.com/Stosswalkinator) | I have taught myself a fair amount of Python and am looking to get more into it. |
